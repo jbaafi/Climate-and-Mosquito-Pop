@@ -2,7 +2,6 @@
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 This repository contains code, data, and analyses for modeling mosquito population dynamics in response to climate variables such as **temperature** and **rainfall**.  
